@@ -103,9 +103,7 @@ This project is for:
 
 ## 🧑‍💻 Author
 
-**Name:** [Your Name]  
-**GitHub:** https://github.com/yourusername  
-**Email:** youremail@example.com
+Name: GURMEET KAUR
 
 ---
 
